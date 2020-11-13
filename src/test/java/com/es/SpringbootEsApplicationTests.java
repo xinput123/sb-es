@@ -1,0 +1,1 @@
+package com.es;import org.junit.runner.RunWith;import org.springframework.boot.test.context.SpringBootTest;import org.springframework.test.context.junit4.SpringRunner;/** * @author <a href="mailto:xinput.xx@gmail.com">xinput</a> * @date 2020-11-11 20:25 */@RunWith(SpringRunner.class)@SpringBootTestpublic class SpringbootEsApplicationTests {}
